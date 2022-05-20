@@ -9,3 +9,5 @@ contenant les mise a jour effectuées .
 
 le code suivaant est bien detaillé avec des commentaire a chaque etapes pour faciliter la comprehension du code.
 
+Ce travail contient 3 fichiers dont 2 fichiers csv  et le fichier main.py
+
