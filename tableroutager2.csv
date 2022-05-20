@@ -1,0 +1,8 @@
+destination,distance,route
+reseau 1,0,directe
+reseau 2,0,directe
+reseau 4,8,R5
+reseau 17,5,R4
+reseau 24,6,R1
+reseau 30,2,R3
+reseau 42,2,R1
