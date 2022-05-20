@@ -7,5 +7,5 @@ Dans cet algorithme nous allons passer deux  tables de routage  a notre fonction
 l'une des deux tables en fonction des valeurs de la deuxieme table  et nous aurons comme valeur de retour une dataframe
 contenant les mise a jour effectuées .
 
-les codes suivaant est bien detaillé avec des commentaire a chaque etapes pour faciliter la comprehension du code.
+le code suivaant est bien detaillé avec des commentaire a chaque etapes pour faciliter la comprehension du code.
 
